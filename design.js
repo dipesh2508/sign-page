@@ -4,6 +4,6 @@ window.onload = function () {
         maxParticles: 105,
         connectParticles: true,
         speed: 0.8,
-
+        color: "#ECB365"
     });
 };
