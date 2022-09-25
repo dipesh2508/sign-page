@@ -310,3 +310,15 @@ h6 span {
   left: 0;
   z-index: -1;
 }
+
+
+footer{
+    margin-top: -40px;
+    width: 100%;
+    opacity: 0.99;
+    font-size: 18px;
+    z-index: 1;
+    background-color: rgba(21, 21, 21, .2);
+    color: #c4c3ca;
+    text-align: center;
+}
